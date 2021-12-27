@@ -1,6 +1,6 @@
 # Push-Based Path Quality Aware Beaconing
 
-This document ountlines the push-based path quality aware beconing algorithm proposed by Seyedali Tabaeiaghdaei and Ahad N. Zehmakan [1], and how it is implemented in the SCION codebase. The pull-based algorithm will be documented later.
+This document ountlines the push-based path quality aware beconing algorithm proposed by Seyedali Tabaeiaghdaei and Ahad N. Zehmakan (@noorizea) [1], and how it is implemented in the SCION codebase. The pull-based algorithm will be documented later.
 
 * Author(s): Silas Gyger, Seyedali Tabaeiaghdaei
 * Status: draft
